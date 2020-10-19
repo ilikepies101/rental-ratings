@@ -2670,9 +2670,9 @@ cosmiconfig@^6.0.0:
     path-type "^4.0.0"
     yaml "^1.7.2"
 
-cra-template-typescript@1.0.3:
+cra-template@1.0.3:
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/cra-template-typescript/-/cra-template-typescript-1.0.3.tgz#437193fb09befe331c45ae3fd186e1da4408ab93"
+  resolved "https://registry.yarnpkg.com/cra-template/-/cra-template-1.0.3.tgz#0d717b1e04cac41984a345b3feabe082fcf76eb7"
 
 create-ecdh@^4.0.0:
   version "4.0.3"
